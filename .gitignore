@@ -1,0 +1,6 @@
+# 只允許發布以下檔案，其他一律忽略
+*
+!index.html
+!README.md
+!.nojekyll
+!.gitignore
